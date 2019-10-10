@@ -6,9 +6,42 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
+    <header>
+      <h2 class="titulo">CONFIDENT</h2>
+  </header>
+  <main>
+      <!--pantalla de inicio-->
+      <div id="inicio">
+          <img class="imagen" src="imagenes/Mujer-durmiendo.png" alt="Depresion">
+          <p class="info">La depresión es un problema de salud real y tratable. Pedir ayuda no es un signo de debilidad, 
+             sino de fortaleza. Sabemos lo dificil que es hablar de ello, por eso ponemos a tu disposicion 
+             esta herramienta. Asi, el mensaje que nos envies se codificará mediante el uso 
+             del <a target="_blank" href="https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar">cifrado césar</a>.</p>
+          <button type="button" class="boton1" id="btn1">Comenzar</button>
+      </div>
+      <!--siguiente vista:offset, ingreso de mensaje-->
+      <div id="primeravista"class="hide">
+          <label class="requisito1" for="posiciones">Numero Clave (posiciones)  </label>
+          <input class="number" type="text" name="posiciones" id="offset" value="">
+          <p class="requisito2">Ingresa tu mensaje:</p>
+          <input class="mensaje1" type="text" name="message" id="message" value=""> <br>
+          <button class="boton2" type="button" id="btn2">Codificar</button>
+          <button class="boton3" type="button" id="btn3">Decodificar</button>
+          <p class="frase1">“No estás solo en esto. Quizá no comprendo con exactitud cómo te sientes, pero me preocupo 
+              por ti y quiero ayudarte”.</p>
+      </div>
+      <!--siguiente vista:mensaje (de)codificado, boton reinicio-->
+      <div id="segundavista" class="hide">
+          <p class="requisito3">Tu mensaje (de)codificado es:</p>
+          <p id="newMessage" class="mensaje2"></p>
+          <button class="boton4" type="button" id="btn4">Volver</button><br>
+          <p class="frase2">
+              "La victoria siempre es posible para la persona que se niega a dejar de luchar"    
+              <cite>Napoleon Hill</cite>
+          </p>
+      </div> 
+  </main>
+  <footer>©Copyright 2019 by nobody. All rights reversed.</footer>
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>
