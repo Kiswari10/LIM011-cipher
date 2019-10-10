@@ -15,6 +15,7 @@ const segundaVista = document.getElementById('segundavista');
 btn2.addEventListener('click', () => {
   primeraVista.classList.add('hide');
   segundaVista.classList.remove('hide');
+  /* eslint radix: ["error", "as-needed"] */ // no permite proporcionar la 10raíz parseInt
   document.getElementById('newMessage').innerHTML = window.cipher.encode(parseInt(number.value), mensaje.value);
 });
 // decodificar
