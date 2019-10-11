@@ -13,17 +13,27 @@ btn1.addEventListener('click', () => {
 const btn2 = document.getElementById('btn2');
 const segundaVista = document.getElementById('segundavista');
 btn2.addEventListener('click', () => {
-  primeraVista.classList.add('hide');
-  segundaVista.classList.remove('hide');
-  /* eslint radix: ["error", "as-needed"] */ // no permite proporcionar la 10raíz parseInt
-  document.getElementById('newMessage').innerHTML = window.cipher.encode(parseInt(number.value), mensaje.value);
+  if (mensaje.value === '' || parseInt(number.value) <= 0 || number.value === '') {
+    // eslint-disable-next-line no-alert
+    alert('Ingrese los datos requeridos');
+  } else {
+    primeraVista.classList.add('hide');
+    segundaVista.classList.remove('hide');
+    /* eslint radix: ["error", "as-needed"] */ // no permite proporcionar la 10raíz parseInt
+    document.getElementById('newMessage').innerHTML = window.cipher.encode(parseInt(number.value), mensaje.value);
+  }
 });
 // decodificar
 const btn3 = document.getElementById('btn3');
 btn3.addEventListener('click', () => {
-  primeraVista.classList.add('hide');
-  segundaVista.classList.remove('hide');
-  document.getElementById('newMessage').innerHTML = window.cipher.decode(parseInt(number.value), mensaje.value);
+  if (mensaje.value === '' || parseInt(number.value) <= 0 || number.value === '') {
+    // eslint-disable-next-line no-alert
+    alert('Ingrese los datos requeridos');
+  } else {
+    primeraVista.classList.add('hide');
+    segundaVista.classList.remove('hide');
+    document.getElementById('newMessage').innerHTML = window.cipher.decode(parseInt(number.value), mensaje.value);
+  }
 });
 // volver a ejecutar comandos
 const btn4 = document.getElementById('btn4');
