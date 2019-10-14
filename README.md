@@ -28,7 +28,7 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
     
   2. ¿Cómo el producto soluciona los problemas/necesidades de los usuarios?
     
-    La depresion es una enfermedad de salud mental que afecta a millones de personas ([350 millones segun OMC] (https://www.who.int/es/news-room/fact-sheets/detail/depression)) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresion encuentran dificil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o verguenza frente a la sociedad.
+    La depresion es una enfermedad de salud mental que afecta a millones de personas (350 millones segun OMC (https://www.who.int/es/news-room/fact-sheets/detail/depression)) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresion encuentran dificil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o verguenza frente a la sociedad.
     Teniendo en cuenta lo dificil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
 
   3. Primer prototipo (de baja fidelidad).
@@ -42,7 +42,7 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
 ### UX
 ​
 - [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener feedback e iterar.
+- [] Crear prototipos para obtener feedback e iterar.
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
