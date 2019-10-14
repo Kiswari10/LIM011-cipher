@@ -20,22 +20,21 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
 
 ## 3. Investigacion UX
 
-  1. Usuarios y los objetivos en relación con el producto.
+### Usuarios y los objetivos en relación con el producto.
 
-    Los usuarios son todas las personas que ingresan a la pagina web de la clínica, en busca de ayuda profesional y con un posible cuadro depresivo.
+Los usuarios son todas las personas que ingresan a la pagina web de la clínica, en busca de ayuda profesional y con un posible cuadro depresivo.
 
-    El principal objetivo es brindar una herramienta que permita mantener de manera confidencial 
-    los mensajes que el usuario envie mediante la plataforma de chat virtual en la pagina principal. Asimismo, brindará la opción de descifrar los mensajes que el usuario reciba por parte de su coach asignado. 
+El principal objetivo es brindar una herramienta que permita mantener de manera confidencial los mensajes que el usuario envie mediante la plataforma de chat virtual en la pagina principal. Asimismo, brindará la opción de descifrar los mensajes que el usuario reciba por parte de su coach asignado. 
     
-  2. ¿Cómo el producto soluciona los problemas/necesidades de los usuarios?
+### ¿Cómo el producto soluciona los problemas/necesidades de los usuarios?
     
-    La depresion es una enfermedad de salud mental que afecta a millones de personas (350 millones segun OMC) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresion encuentran dificil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o verguenza frente a la sociedad.
+La depresion es una enfermedad de salud mental que afecta a millones de personas (350 millones segun OMC) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresion encuentran dificil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o verguenza frente a la sociedad.
 
-    Teniendo en cuenta lo dificil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
+Teniendo en cuenta lo dificil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
 
-  3. Primer prototipo (de baja fidelidad).
-  4. Feedback recibido.
-  5. Imagen del prototipo final.
+### Primer prototipo (de baja fidelidad).
+### Feedback recibido.
+### Imagen del prototipo final.
 
 ## 4. Proyecto en gh-pages
 
@@ -68,7 +67,7 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
 - [ ] Declaración correcta de variables (const & let).
 ​
 ### Testing
-- [ ] Testeo de tus funciones.
+- [si] Testeo de tus funciones.
 ​
 ### Git y GitHub
 - [ ] Comandos de git (add | commit | pull | status | push).
