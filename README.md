@@ -38,7 +38,7 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Primer prototipo (de baja fidelidad).
 
-
+![primerPrototipo](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/primerPrototipo.JPG)
 
 ### Feedback recibido.
 
@@ -48,7 +48,7 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Imagen del prototipo final.
 
-![prototipado1]()
+![prototipado1](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado1.JPG)
 ![prototipado2](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado2.JPG)
 ![prototipado3](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado3.JPG)
 
