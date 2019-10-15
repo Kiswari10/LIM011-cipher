@@ -36,7 +36,7 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Primer prototipo (de baja fidelidad).
 
-![primer prototipo](src\imagenes\primer_prototipo.jpg)
+![primer prototipo](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/primer_prototipo.jpg)
 
 ### Feedback recibido.
 ### Imagen del prototipo final.
