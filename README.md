@@ -14,25 +14,30 @@
 
 ## 1. Resumen
 
-Confident es una herramienta web que permite cifrar y descifrar mensajes completos, el cual está vinculado a la pagina web de una clínica psicológica. 
+Confident es una herramienta web que permite cifrar y descifrar mensajes completos, el cual está vinculado a la página web de una clínica psicológica. 
 
 ## 2. Imagen final
 
-## 3. Investigacion UX
+
+
+## 3. Investigación UX
 
 ### Usuarios y los objetivos en relación con el producto.
 
-Los usuarios son todas las personas que ingresan a la pagina web de la clínica, en busca de ayuda profesional y con un posible cuadro depresivo.
+Los usuarios son todas las personas que ingresan a la página web de la clínica, en busca de ayuda profesional y con un posible cuadro depresivo.
 
-El principal objetivo es brindar una herramienta que permita mantener de manera confidencial los mensajes que el usuario envie mediante la plataforma de chat virtual en la pagina principal. Asimismo, brindará la opción de descifrar los mensajes que el usuario reciba por parte de su coach asignado. 
+El principal objetivo es brindar una herramienta que permita mantener de manera confidencial los mensajes que el usuario envíe mediante la plataforma de chat virtual en la página principal. Asimismo, brindará la opción de descifrar los mensajes que el usuario reciba por parte de su coach asignado. 
     
 ### ¿Cómo el producto soluciona los problemas/necesidades de los usuarios?
     
-La depresion es una enfermedad de salud mental que afecta a millones de personas (350 millones segun OMC) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresion encuentran dificil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o verguenza frente a la sociedad.
+La depresión es una enfermedad de salud mental que afecta a millones de personas (350 millones segun OMC) y, sin embargo, se reporta pocas veces. Esto sucede debido al estigma que todavía hay alrededor de los problemas de salud mental. Las personas con depresión encuentran difícil el comunicar lo que les esta sucediendo por miedo ya sea al rechazo o vergüenza frente a la sociedad.
 
-Teniendo en cuenta lo dificil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
+Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
 
 ### Primer prototipo (de baja fidelidad).
+
+![primer prototipo](src\imagenes\primer_prototipo.jpg)
+
 ### Feedback recibido.
 ### Imagen del prototipo final.
 
@@ -67,7 +72,7 @@ Teniendo en cuenta lo dificil que es hablar sobre el tema para una persona con d
 - [ ] Declaración correcta de variables (const & let).
 ​
 ### Testing
-- [si] Testeo de tus funciones.
+- [Si] Testeo de tus funciones.
 ​
 ### Git y GitHub
 - [ ] Comandos de git (add | commit | pull | status | push).
