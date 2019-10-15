@@ -85,4 +85,8 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 ​
 ### Buenas prácticas de desarrollo
 - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+<<<<<<< HEAD
 - [x] Uso de linter para seguir buenas prácticas (ESLINT).
+=======
+- [ ] Uso de linter para seguir buenas prácticas (ESLINT).
+>>>>>>> 83b0460943fb3fcb274180d0460001fae9cbe19c
