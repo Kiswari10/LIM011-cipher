@@ -19,6 +19,8 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
 ## 2. Imagen final
 
 ![final1](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final1.JPG)
+![final2](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final2.JPG)
+![final3](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final3.JPG)
 
 ## 3. Investigación UX
 
