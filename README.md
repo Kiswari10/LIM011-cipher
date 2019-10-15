@@ -36,7 +36,7 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Primer prototipo (de baja fidelidad).
 
-![primer prototipo](...\src\imagenes\primer_prototipo.jpg)
+![primer_prototipo](https://user-images.githubusercontent.com/55994731/66836329-c1c1a580-ef26-11e9-9f4d-1bc1b3c596a9.jpg)
 
 ### Feedback recibido.
 ### Imagen del prototipo final.
