@@ -1,7 +1,7 @@
 // Declaracion de variables
 const mensaje = document.getElementById('message');
 const number = document.getElementById('offset');
-// pasar de la primera vista a cod o decod
+// pasar de la primera vista a cod y decod
 const btn1 = document.getElementById('btn1');
 const inicio = document.getElementById('inicio');
 const primeraVista = document.getElementById('primeravista');
@@ -15,7 +15,7 @@ const segundaVista = document.getElementById('segundavista');
 btn2.addEventListener('click', () => {
   if (mensaje.value === '' || parseInt(number.value) <= 0 || number.value === '') {
     // eslint-disable-next-line no-alert
-    alert('Ingrese los datos requeridos');
+    alert('Ingrese los datos requeridos: 1. El mensaje y 2. Un numero clave mayor a 0');
   } else {
     primeraVista.classList.add('hide');
     segundaVista.classList.remove('hide');
@@ -28,7 +28,7 @@ const btn3 = document.getElementById('btn3');
 btn3.addEventListener('click', () => {
   if (mensaje.value === '' || parseInt(number.value) <= 0 || number.value === '') {
     // eslint-disable-next-line no-alert
-    alert('Ingrese los datos requeridos');
+    alert('Ingrese los datos requeridos: 1. El mensaje y 2. Un numero clave mayor a 0');
   } else {
     primeraVista.classList.add('hide');
     segundaVista.classList.remove('hide');
