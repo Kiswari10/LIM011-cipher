@@ -60,14 +60,14 @@ https://kiswari10.github.io/LIM011-cipher/
 
 ### UX
 ​
-- [x] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
 - [ ] Uso correcto de HTML semántico.
-- [x] Uso de selectores de CSS.
+- [ ] Uso de selectores de CSS.
 - [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
@@ -78,7 +78,7 @@ https://kiswari10.github.io/LIM011-cipher/
 ​
 ### Javascript
 ​
-- [x] Manipulación de strings.
+- [ ] Manipulación de strings.
 - [x] Uso de condicionales (if-else | switch).
 - [x] Uso de bucles (for | do-while).	
 - [x] Uso de funciones (parámetros | argumentos | valor de retorno).
