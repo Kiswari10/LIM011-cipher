@@ -18,9 +18,9 @@ Confident es una herramienta web que permite cifrar y descifrar mensajes complet
 
 ## 2. Imagen final
 
-![final1](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final1.JPG)
-![final2](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final2.JPG)
-![final3](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/final3.jpg)
+![final1](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/final1.JPG)
+![final2](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/final2.JPG)
+![final3](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/final3.jpg)
 
 ## 3. Investigación UX
 
@@ -48,9 +48,9 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Imagen del prototipo final.
 
-![prototipado1](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado1.JPG)
-![prototipado2](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado2.JPG)
-![prototipado3](https://github.com/Kiswari10/LIM011-cipher/blob/master/src/imagenes/prototipado3.JPG)
+![prototipado1](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/prototipado1.JPG)
+![prototipado2](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/prototipado2.JPG)
+![prototipado3](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/prototipado3.JPG)
 
 ## 4. Proyecto en gh-pages
 
