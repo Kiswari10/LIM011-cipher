@@ -38,7 +38,7 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 
 ### Feedback recibido.
 
-Luego de hacer y mostrar el prototipo de baja fidelidad (hoja y lápiz), se obtuviero las siguientes sugerencias:
+Luego de hacer y mostrar el prototipo de baja fidelidad (hoja y lápiz), se obtuvieron las siguientes sugerencias:
 
 - Cambiar los botones de codificar y decodificar a la segunda vista.
 - Poner un boton de comenzar en la primera vista
@@ -54,25 +54,21 @@ Luego de hacer y mostrar el prototipo de baja fidelidad (hoja y lápiz), se obtu
 ## 4. Objetivos de aprendizaje
 
 ### UX
-​
 - [ ] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener feedback e iterar.
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
-​
 - [ ] Uso correcto de HTML semántico.
 - [ ] Uso de selectores de CSS.
 - [x] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
-​
 - [x] Uso de selectores del DOM.
 - [x] Manejo de eventos del DOM.
 - [x] Manipulación dinámica del DOM.
 ​
 ### Javascript
-​
 - [ ] Manipulación de strings.
 - [x] Uso de condicionales (if-else | switch).
 - [x] Uso de bucles (for | do-while).	
