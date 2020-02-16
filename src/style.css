@@ -3,7 +3,7 @@
 }
 body{
     background-color:white;
-    background-image: url(imagenes/pru.jpg);
+    background-image: url(../imagenes/pru.jpg);
 }
 .titulo{
     font-family:Circular,Roboto,sans-serif;
@@ -88,3 +88,13 @@ body{
 .mensaje2{
     margin-left: 110px;
 }
+footer{
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(#26c6da 0,#00bcd4); */
+  }

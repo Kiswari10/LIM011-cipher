@@ -36,11 +36,9 @@ La depresión es una enfermedad de salud mental que afecta a millones de persona
 
 Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con dicha condición, Confident permite que el mensaje que se quiera enviar sea leído solo por el usuario y el coach de la clinica virtual, estableciendo un grado de confidencialidad muy alto. Asi el usuario tendrá la seguridad que su mensaje será 100% secreto, además que podrá elegir con quien compartirlo. 
 
-### Primer prototipo (de baja fidelidad).
-
-![primerPrototipo](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/primerPrototipo.JPG)
-
 ### Feedback recibido.
+
+Luego de hacer y mostrar el prototipo de baja fidelidad (hoja y lápiz), se obtuviero las siguientes sugerencias:
 
 - Cambiar los botones de codificar y decodificar a la segunda vista.
 - Poner un boton de comenzar en la primera vista
@@ -52,11 +50,8 @@ Teniendo en cuenta lo difícil que es hablar sobre el tema para una persona con 
 ![prototipado2](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/prototipado2.JPG)
 ![prototipado3](https://github.com/Kiswari10/LIM011-cipher/blob/master/imagenes/prototipado3.JPG)
 
-## 4. Proyecto en gh-pages
 
-https://kiswari10.github.io/LIM011-cipher/ 
-
-## 5. Objetivos de aprendizaje
+## 4. Objetivos de aprendizaje
 
 ### UX
 ​
